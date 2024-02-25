@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351012188642",
+    "project_id": "fhaida-5f0d7",
+    "storage_bucket": "fhaida-5f0d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351012188642:android:b5ce19c8f0990844fb49bb",
+        "android_client_info": {
+          "package_name": "com.example.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGg2dWK4hxcUYIyNJMNcrE6-BNOF1ezE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
